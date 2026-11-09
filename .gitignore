@@ -1,0 +1,7 @@
+# Carpetas de compilación e IDEs comunes en DAM
+.idea/
+bin/
+out/
+build/
+*.log
+.DS_Store
